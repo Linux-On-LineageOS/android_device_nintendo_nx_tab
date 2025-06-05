@@ -5,3 +5,4 @@
 #
 
 $(call inherit-product, device/nintendo/nx/device.mk)
+$(call inherit-product, vendor/lindroid/lindroid.mk)
