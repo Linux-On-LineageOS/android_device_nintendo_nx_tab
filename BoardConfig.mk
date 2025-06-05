@@ -5,3 +5,4 @@
 #
 
 include device/nintendo/nx/BoardConfig.mk
+BOARD_BOOTCONFIG += androidboot.selinux=permissive
